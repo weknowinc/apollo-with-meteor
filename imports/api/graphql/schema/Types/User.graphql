@@ -1,0 +1,7 @@
+type User {
+    _id: ID!
+    # The first user email
+    email: String!
+    # The name of the roles the user has
+    roles: [ID]
+}
