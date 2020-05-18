@@ -1,0 +1,4 @@
+type Mutation {
+  # Log the user in with a password.
+  loginWithPassword (username: String, email: String, password: HashedPassword, plainPassword: String): LoginMethodResponse
+}

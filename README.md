@@ -8,6 +8,7 @@ Each branch match a blog post and webinar that explain step by step how to integ
 Table of content
 
 - [Step 1 Initial Setup](https://github.com/weknowinc/apollo-with-meteor/tree/step-1-initial-setup)
+- [Steo 2 User Resolvers](https://github.com/weknowinc/apollo-with-meteor/tree/step-2-user-resolvers)
 
-Feel free to report any issue and/or contribute any improvement
+Feel free to report any issue and/or contribute any improvement.
 
